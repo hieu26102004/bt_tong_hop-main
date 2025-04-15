@@ -1,1 +1,1 @@
-# bt_tong_hop
+# bt_tong_hop sua lai
